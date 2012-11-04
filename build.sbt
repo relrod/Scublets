@@ -17,5 +17,6 @@ libraryDependencies ++= Seq(
   "com.typesafe" % "slick_2.10.0-M7" % "0.11.1",
   "org.joda" % "joda-convert" % "1.2",
   "joda-time" % "joda-time" % "2.1",
-  "commons-io" % "commons-io" % "2.4"
+  "commons-io" % "commons-io" % "2.4",
+  "ch.qos.logback" % "logback-classic" % "1.0.7"
 )
